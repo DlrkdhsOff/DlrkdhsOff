@@ -3,8 +3,12 @@
 </p>
 
 
-## SKILL's
-<div align=left>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&theme=tokyonight&show_icons=true)
+
+
+
+##
+<div align=center>
   <h3>Language</h3>
   <img src="https://img.shields.io/badge/Java-EF2D5E?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -36,7 +40,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 
   <h3>OS</h3>
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
+  <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=macos&logoColor=white">
   <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   
 </div>
