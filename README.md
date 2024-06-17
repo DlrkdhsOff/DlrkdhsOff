@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=77E8B9&height=300&section=header&text=Kaon%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kaon%20Lee&fontAlign=80&fontAlignY=40&color=0:40E0D0,100:48D1CC"/>
 </p>
 
 
@@ -44,3 +44,6 @@
   <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   
 </div>
+
+
+
