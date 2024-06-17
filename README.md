@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/AWS-%212C42.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-%23F46800.svg?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 
   <h3>OS</h3>
   <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=macos&logoColor=white">
