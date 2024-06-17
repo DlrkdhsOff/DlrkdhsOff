@@ -2,13 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kaon%20Lee&fontAlign=80&fontAlignY=40&color=0:40E0D0,100:48D1CC"/>
 </p>
 
+##
+<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&theme=tokyonight&show_icons=true)
 
-
-
-##
-<div align=center>
   <h3>Language</h3>
   <img src="https://img.shields.io/badge/Java-EF2D5E?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
