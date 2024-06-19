@@ -5,7 +5,7 @@
 ##
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&theme=tokyonight&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&theme=tokyonight&show_icons=true) -->
 
   <h3>Language</h3>
   <img src="https://img.shields.io/badge/Java-EF2D5E?style=for-the-badge&logo=openjdk&logoColor=white">
