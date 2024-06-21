@@ -33,8 +33,8 @@
   <h3>Devops</h3>
   <img src="https://img.shields.io/badge/intellij-8C5AFF?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%212C42.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postman-%23F46800.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/AWS-%212C42.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/postman-%23F46800.svg?style=for-the-badge&logo=postman&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
   <h3>OS</h3>
