@@ -8,7 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&show_icons=true&theme=tokyonight)
 
 
-
   <h3>Language</h3>
   <img src="https://img.shields.io/badge/Java-EF1D5E?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
