@@ -18,13 +18,11 @@
   <h3>Frameworks</h3>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-23FFB0?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/mybatis-2B3FB0?style=for-the-badge&logo=Mybatis&logoColor=white">
 
 
   <h3>Libraries</h3>
+  <img src="https://img.shields.io/badge/mybatis-2B3FB0?style=for-the-badge&logo=Mybatis&logoColor=white">
   <img src="https://img.shields.io/badge/jsp-2FB120?style=for-the-badge&logo=JSP&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
   
   
   <h3>Database</h3>
