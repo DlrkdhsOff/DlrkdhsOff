@@ -1,7 +1,7 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Kaon's%20Github&fontAlign=52&fontAlignY=40&color=0:40E0D1,100:48D1CC"/>
 </p>
-<div align=center>
+<div align=left>
 
 <h2>🍃 Tech Stack</h2>
 
