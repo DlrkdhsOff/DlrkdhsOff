@@ -1,11 +1,7 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Kaon's%20Github&fontAlign=52&fontAlignY=40&color=0:40E0D1,100:48D1CC"/>
 </p>
-
-##
 <div align=center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&show_icons=true&theme=tokyonight)
 
 <h2>🍃 Tech Stack</h2>
 
@@ -31,5 +27,9 @@
 <h3>🌵 Operating Systems</h3>
 <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=macos&logoColor=white">
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&show_icons=true&theme=tokyonight)
 
 </div>
