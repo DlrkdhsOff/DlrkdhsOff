@@ -3,7 +3,7 @@
 </p>
 
 ## 🍃 Tech Stack
-<div align=cneter>
+<div align=center>
 
 ### Languages
 <img src="https://img.shields.io/badge/Java-008080?style=for-the-badge&logo=openjdk&logoColor=white">
