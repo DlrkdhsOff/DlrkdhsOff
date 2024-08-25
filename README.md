@@ -3,7 +3,6 @@
 </p>
 
 ## 🍃 Tech Stack
-
 <div align=center>
 
 ### Languages
