@@ -9,11 +9,11 @@
 ### Languages
 <img src="https://img.shields.io/badge/Java-008080?style=for-the-badge&logo=openjdk&logoColor=white">
 
-### Frameworks & Libraries
+### Frameworks
 <img src="https://img.shields.io/badge/Spring-2DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-228B22?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-2C2C54?style=for-the-badge&logo=mybatis&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-2C2C54?style=for-the-badge&logo=mybatis&logoColor=white"> -->
 
 ### Databases
 <img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
