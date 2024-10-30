@@ -7,13 +7,11 @@
 
 <div align=left>
 
-### Languages
+### Languages & Frameworks
 <img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-
-### Frameworks
 <img src="https://img.shields.io/badge/Spring-2DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-228B22?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
 <!-- <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-2C2C54?style=for-the-badge&logo=mybatis&logoColor=white"> -->
 
