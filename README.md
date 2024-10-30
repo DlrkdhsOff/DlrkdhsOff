@@ -23,14 +23,20 @@
 <img src="https://img.shields.io/badge/Redis-DC143C?style=for-the-badge&logo=Redis&logoColor=white"/>
 
 ### DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-3C3F41?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F89820?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
 
 ### Operating Systems
 <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=macos&logoColor=white">
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 
 ##
 
