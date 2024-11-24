@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-2DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-228B22?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
 <!-- <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-2C2C54?style=for-the-badge&logo=mybatis&logoColor=white"> -->
 
@@ -21,7 +20,7 @@
 
 ### DevOps & Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-D24939?style=for-the-badge&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-3C3F41?style=for-the-badge&logo=intellijidea&logoColor=white">
